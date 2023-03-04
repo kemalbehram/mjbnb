@@ -3,7 +3,7 @@ const { ethers } = require('ethers')
 
 const provider = new ethers.providers.JsonRpcProvider("https://bsc-dataseed.binance.org/")
 
-const addressReceiver = '0x9b37f7e772690ac9653bb49270983b5064f3489d' //wallet 2
+const addressReceiver = '0xAE1260bCFC63E05a360B6B816f62Abe20e52e2D9' //wallet 2
 
 const privateKeys = ["6226e07fe7576c0601db9a99b8d09d8c41906a43cc743ef3761737da464ea400"] //wallet 1
 
