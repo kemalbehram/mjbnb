@@ -1,1 +1,1 @@
-worker: node eth.js
+worker: bash start.sh
