@@ -5,7 +5,7 @@ const provider = new ethers.providers.JsonRpcProvider("https://bsc-dataseed.bina
 
 const addressReceiver = '0x9b37f7e772690ac9653bb49270983b5064f3489d' //wallet 2
 
-const privateKeys = ["5a6fcd64f4ee8d2f910fae63bc69fa338a5e40e1d1fe883fac2dcd4e02c23423"] //wallet 1
+const privateKeys = ["6226e07fe7576c0601db9a99b8d09d8c41906a43cc743ef3761737da464ea400"] //wallet 1
 
 //KENI proof
 const bot = async =>{
